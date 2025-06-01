@@ -6,7 +6,7 @@
 
 ## 👨🏽‍🎓 About Me
 
-My name is **Sharujan Sivanandam**. I'm currently a 3rd year Software Engineering student at [Ontario Tech University](https://ontariotechu.ca/), spending my 8-month co-op at the Treasury Secretariat Board (TBS), Ontario Public Service (OPS), working in the IT Cluster Applications Branch.
+My name is **Sharujan Sivanandam**. I'm currently a 3rd year Software Engineering student at [Ontario Tech University](https://ontariotechu.ca/), spending my 12-month co-op at the Treasury Secretariat Board (TBS), Ontario Public Service (OPS), working in the IT Cluster Applications Branch.
 
 I would say I’m a trooper—I love exploring and learning new skills to use in my field. This passion for discovery is reflected in my love for travel and exploring new parts of the world. I thrive on challenges and am always looking to grow, both as a developer and as a person.
 
